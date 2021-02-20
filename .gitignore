@@ -1,0 +1,5 @@
+# Project exclude paths
+/microsoft-api/target/
+/microsoft-eureka/target/
+/microsoft-gateway/target/
+/microsoft-oauth2/target/
